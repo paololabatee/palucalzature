@@ -1,0 +1,20 @@
+h1 {text-align: center; color: white;}
+h3{text-align: center; color: black;}
+p{font-size: x-large; color: white;}
+ul{font-size: large;}
+#marchi{color: white;}
+#blu{color: white;}
+#fuchsia{color: white;}
+#viola{color: white;}
+.container{display: flex; flex-wrap: wrap;}
+.testo{width: 50%; padding: 20px;}
+.immagine{width: 50%; padding: 20px;}
+@media(max-width: 600px){
+.testo, .immagine {
+        width: 100%;
+    }
+}
+a{color: black;}
+#creatore{font-size: small;}
+
+
